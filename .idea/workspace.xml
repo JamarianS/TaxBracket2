@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6df6b773-692f-4c47-9be8-72397069dbd0" name="Changes" comment="" />
+    <list default="true" id="6df6b773-692f-4c47-9be8-72397069dbd0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HeadOfHouseholdTaxBracket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadOfHouseholdTaxBracket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MarriedJointlyTaxBracket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MarriedJointlyTaxBracket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MarriedSeparatelyTaxBracket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MarriedSeparatelyTaxBracket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SingleTaxBracket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleTaxBracket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaxBracket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaxBracket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaxCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaxCalculator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2VKRDjulO0ZrN2xyMF0qMAnAvTo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
